@@ -3,6 +3,7 @@
      * Calisan bir fabrikada uygulanan bir sistem olan depo uygulamasidir.
      *
      * 1-) burada oncelikle urunun tanimlamasi  yapilir.  //pojoUrun
+     !!! projeyi bitirdikten sonra vaktimiz kaldığında statü durumunu yapabiliriz
       id
       urunIsmi
       uretici
